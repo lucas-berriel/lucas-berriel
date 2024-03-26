@@ -1,11 +1,3 @@
-<h2 align="center">Heyy!</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</p>
-
 ###
 
 <br clear="both">
