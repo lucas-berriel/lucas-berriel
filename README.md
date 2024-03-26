@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h5 align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</h6>
+<p align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</p>
 
 ###
 
@@ -40,12 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/lucas-berriel/lucas-berriel/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h5 align="center">:)</h5>
 
