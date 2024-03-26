@@ -4,14 +4,14 @@
 
 <br clear="both">
 
-<p align="center">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</p>
+<p align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
+  <img height="250" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
 </div>
 
 ###
