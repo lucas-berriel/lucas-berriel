@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Heyy!</h2>
 
 ###
@@ -14,7 +12,7 @@
 
 <br clear="both">
 
-<h6 align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</h6>
+<h5 align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados. I'm always researching new technologies and seeking to improve my knowledge.</h6>
 
 ###
 
@@ -24,7 +22,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
