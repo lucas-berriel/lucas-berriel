@@ -2,17 +2,11 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados.<br>I'm always researching new technologies and seeking to improve my knowledge.</p>
+<img align="left" height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
-</div>
+<p align="left">I'm a Brazilian Software Engineer and I'm currently working as an Automation Analyst at company Nelson Wilians Advogados.<br>I'm always researching new technologies and seeking to improve my knowledge.</p>
 
 ###
 
