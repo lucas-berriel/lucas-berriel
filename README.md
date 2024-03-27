@@ -53,9 +53,3 @@ Estou sempre buscando ficar por dentro das tecnologias que surgem no mercado e e
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
