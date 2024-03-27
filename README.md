@@ -3,7 +3,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 Meu nome é Lucas Berriel, tenho 23 anos e sou um Engenheiro de Software formado pela UFMS.
 Atualmente, estou trabalhando como Analista de Automação na Nelson Wilians Advogados.
