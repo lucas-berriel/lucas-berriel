@@ -10,7 +10,7 @@ Estou sempre buscando ficar por dentro das tecnologias que surgem no mercado e e
 
 </td><td valign="top" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" height="280" width="380" />  
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" height="280" width="400" />  
 
 
 </td></tr></table>  
