@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Tenho 23 anos e uma paixão por resolver problemas complexos com soluções inovadoras em software. Minha trajetória profissional é marcada por uma constante busca por aprendizado e aperfeiçoamento. Trabalhando como Analista de Automação, desenvolvi habilidades para criar soluções eficientes que automatizam tarefas repetitivas, melhoram a produtividade e reduzem erros humanos.
+Tenho 24 anos e uma paixão por resolver problemas complexos com soluções inovadoras em software. Minha trajetória profissional é marcada por uma constante busca por aprendizado e aperfeiçoamento. Trabalhando como Analista de Automação, desenvolvi habilidades para criar soluções eficientes que automatizam tarefas repetitivas, melhoram a produtividade e reduzem erros humanos.
 
 ---
 
@@ -33,5 +33,3 @@ Tenho 23 anos e uma paixão por resolver problemas complexos com soluções inov
 ---
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou proposta de colaboração!
-
-![Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpubnNycDE0NGEwNTBqeTMxZmphMTlmbnJhb3Fsbm9mbjk1M3VwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
